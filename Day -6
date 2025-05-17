@@ -1,0 +1,47 @@
+Day-6
+File handling in c:
+ File handling allow reading from and writing to files 
+  type of files
+  *Text file
+  *Binary file 
+  
+  
+ File operation :
+ *opening a files 
+ syntax 
+ FILE*file-pointer=fopen("filename","mode");
+ There are type in modes 
+ read
+ write 
+ append 
+ 
+ preprocessors directive -hand file:
+ The preprocessors directive  is a instruction executed before the acutal complainer of code then it's is called preprocessors directive 
+ Example:#define PI 3.141
+ condition complainer:
+ Marco 
+ preprocess directive of c program 
+ 
+ coammand and line argument:
+ Allow passing information to a program 
+ syntax:
+ int main(int argc,char*argav[])
+ *argc
+ *argv
+ 
+ Error 
+ proper error handing improve program reliability 
+ Type of error :
+ 1.syntax error
+ 2.runtime
+ 3. logical error
+ 
+ 
+ debugging techines:
+ The process identify an fixing correct in the error 
+ type 
+ *using print statment 
+ *using debugging/tools techencies 
+  syntax:
+  while (ch==fgets(ch!=EOF))
+ 
